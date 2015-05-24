@@ -20,12 +20,12 @@ Parts Used:
 
 Schematic:
 
-![schematic](http://i.imgur.com/uTjMdxo.png)
+![schematic](https://raw.githubusercontent.com/Gabrola/AutoNaviCar/master/images/schematic.png)
 
 Algorithmic state machine for control unit:
 
-![asm](http://i.imgur.com/XuiKFZe.png)
+![asm](https://raw.githubusercontent.com/Gabrola/AutoNaviCar/master/images/asm.png)
 
 Screenshot of program created to control the car:
 
-![car controller program](http://i.imgur.com/A0d2Ovn.png)
+![car controller program](https://raw.githubusercontent.com/Gabrola/AutoNaviCar/master/images/car.png)
